@@ -29,6 +29,7 @@ Clone this repository or copy the script.
 Install Flask: pip install flask
 
 Run the application: python app.py
+url: http://127.0.0.1:5000/users
 
 API Endpoints
 
